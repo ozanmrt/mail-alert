@@ -1,0 +1,38 @@
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.exe.config
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.ResolveComReference.cache
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Form1.resources
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Properties.Resources.resources
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.GenerateResource.Cache
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.exe
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.pdb
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.exe
+c:\users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.pdb
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.BodyForm.resources
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Form_Filtreleme.resources
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Gelismis_Grid.resources
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csprojResolveAssemblyReference.cache
+C:\Users\ismail.palo\documents\visual studio 2015\Projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.RaporForm.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.exe.config
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.exe
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\MailUyarı.pdb
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.AssemblyReference.cache
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.ResolveComReference.cache
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.BodyForm.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Form1.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Form_Filtreleme.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Gelismis_Grid.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.Properties.Resources.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.RaporForm.resources
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.GenerateResource.cache
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.CoreCompileInputs.cache
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.csproj.Up2Date
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.exe
+C:\Users\ozan_\OneDrive\Desktop\my-projects\MailUyarı\MailUyarı\obj\Debug\MailUyarı.pdb
