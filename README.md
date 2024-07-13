@@ -41,10 +41,10 @@ CREATE TABLE onemli (
 ```
 
 ```
-INSERT INTO kritik (kritikKelime) VALUES ('acil');
-INSERT INTO kritik (kritikKelime) VALUES ('önemli');
+INSERT INTO kritik (kritikKelime) VALUES ('import');
+INSERT INTO kritik (kritikKelime) VALUES ('critical');
 
-INSERT INTO onemli (onemliKelime) VALUES ('toplantı');
+INSERT INTO onemli (onemliKelime) VALUES ('meeting');
 INSERT INTO onemli (onemliKelime) VALUES ('rapor');
 ```
 
