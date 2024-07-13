@@ -1,2 +1,2 @@
-# mail-alert
-C# Mail Alert Program
+# C# Mail Alert Program
+
